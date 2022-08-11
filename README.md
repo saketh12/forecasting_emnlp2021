@@ -5,7 +5,6 @@ We study the language of good and bad forecasts. Generally, a question is asked 
 # Library versions
 
 Hugging Face Transformer library: 4.5.1
-Pytorch: Most Recent Version should work
 
 # Code Details
 
