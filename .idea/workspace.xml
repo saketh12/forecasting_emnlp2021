@@ -5,58 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9b4301b-adc5-43a9-84b4-38241465f87f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/doc/plots.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/acl_natbib.bst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/anthology.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/custom.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/emnlp2021.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/emnlp2021.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/emnlp2021-latex/emnlp2021.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/Picture1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/chart_bottom.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/chart_top.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/dataset_summary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/dataset_summary.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/final_summary.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/forecasting_nn.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/legend1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/legend2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/motivation.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/nn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/nn.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/no_window_num_forecasts.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/num_forecasts_v1_withwindow.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/q_topics.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/window_majority_vote.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/word_cloud_1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/word_cloud_2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/figures/word_cloud_3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/forecasting.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/forecasting.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/outline.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/refs.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/style/lft.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/style/semantic_relation.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/style/special.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/style/style.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/error_analysis.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/extraresults.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/extraresults_v2.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/j_analysis.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/q_analysis.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tables/results.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/appendix.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/conclusions.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/experiments.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/introduction.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/previous_work.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/qualitative_analysis.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/emnlp2021/tex/terminology_dataset.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Setup\Documents\GitHub\forecasting_emnlp2021" />
       <recent name="C:\Users\Setup\Documents\GitHub\forecasting\Extra_Questions_Daily" />
       <recent name="C:\Users\Setup\Documents\GitHub\forecasting\Daily" />
     </key>
@@ -235,5 +187,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

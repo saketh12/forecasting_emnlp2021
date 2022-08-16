@@ -1,0 +1,8 @@
+torch==1.7.0
+transformers==4.5.1
+scikit-learn==0.23.1
+pandas==1.0.5
+tqdm
+pickle
+spacy
+statsmodels
